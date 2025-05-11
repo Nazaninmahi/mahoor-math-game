@@ -31,9 +31,22 @@ The game is built using **Python** and **Tkinter**, and opens in a colorful wind
 
 ## 🔧 How to Run
 
-1. Make sure Python 3.x is installed.
-2. Save the file as `mahoor_math_game.py`
-3. Open terminal or run the script:
+
+## 🧡 Inspiration
+
+I designed this game with love for my daughter Mahoor.  
+Her name is part of the game itself, used as variables in the math equations — making every question feel personal and meaningful.  
+This is a small project that combines learning, joy, and love all in one.
+
+---
+
+## 👩‍💻 Author
+
+**Nazanin Khorasani**  
+**Houston, Texas – May 2025**  
+**[GitHub](https://github.com/Nazaninmahi)**
+
+To run the game, open terminal or run the script:
 
 ```bash
 python mahoor_math_game.py
